@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://vooi.io/logo.png" alt="VOOI" width="120" />
-
 # VOOI
 
 **The unified perpetual execution layer.**
