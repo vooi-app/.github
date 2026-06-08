@@ -60,15 +60,13 @@ VOOI currently aggregates five CLOB-based perpetual DEXs:
 - **Non-custodial throughout** — VOOI never holds keys or collateral
 - **MCP-native** — every API capability is exposed as an MCP tool
 
-## Repositories
+## Start building
 
-This organization hosts public repositories supporting VOOI's integrations and ecosystem work:
-
-- [**vooi-assets**](https://github.com/vooi-app/vooi-assets) — Brand assets and media kit
-- [**DefiLlama-Adapters**](https://github.com/vooi-app/DefiLlama-Adapters) — VOOI's DefiLlama TVL adapter
-- [**dimension-adapters**](https://github.com/vooi-app/dimension-adapters) — DefiLlama dimension adapter (volume/fees)
-- [**scw-contracts**](https://github.com/vooi-app/scw-contracts) — Smart contract wallet contracts
-- [**react-iconsax**](https://github.com/vooi-app/react-iconsax) — Icon library used in VOOI UI
+| Repo | What it does |
+|---|---|
+| [**vooi-funding-bot-example**](https://github.com/vooi-app/vooi-funding-bot-example) | Delta-neutral funding arb bot. Production-ready. |
+| [**vooi-signals-bot-example**](https://github.com/vooi-app/vooi-signals-bot-example) | Telegram signals → LLM parser → VOOI API trades |
+| [**vooi-mcp**](https://github.com/vooi-app/mcp) | MCP server config + quick connect for Claude/Cursor |
 
 API code, SDKs, and integration examples are maintained at [docs.vooi.io](https://docs.vooi.io) and [perps-api.vooi.io/docs](https://perps-api.vooi.io/docs).
 
