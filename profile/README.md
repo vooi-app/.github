@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/vooi-wordmark-white.png">
-  <img alt="VOOI" src="profile/vooi-wordmark-dark.png" width="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vooi-app/.github/main/profile/vooi-wordmark-white.png">
+  <img alt="VOOI" src="https://raw.githubusercontent.com/vooi-app/.github/main/profile/vooi-wordmark-dark.png" width="200">
 </picture>
 
 **The unified perpetual execution layer.**
