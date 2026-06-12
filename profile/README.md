@@ -69,6 +69,7 @@ VOOI currently aggregates five CLOB-based perpetual DEXs:
 |---|---|
 | [**vooi-funding-bot-example**](https://github.com/vooi-app/vooi-funding-bot-example) | Delta-neutral funding arb bot. Production-ready. |
 | [**vooi-signals-bot-example**](https://github.com/vooi-app/vooi-signals-bot-example) | Telegram signals → LLM parser → VOOI API trades |
+| [**vooi-mm-bot-example**](https://github.com/vooi-app/vooi-mm-bot-example) | Delta-neutral market-making perp bot |
 | [**vooi-mcp**](https://github.com/vooi-app/mcp) | MCP server config + quick connect for Claude/Cursor |
 
 API code, SDKs, and integration examples are maintained at [docs.vooi.io](https://docs.vooi.io) and [perps-api.vooi.io/docs](https://perps-api.vooi.io/docs).
@@ -84,7 +85,7 @@ VOOI has been covered by The Block, Blocmates, FN Today, Blockchain Today, and C
 ## Getting started
 
 - **Trade:** Open [VOOI Ultra](https://ultra.vooi.io) and connect your wallet.
-- **Build:** [Request API access](https://vooi.io/perps-api) — most teams ship in 1–3 days.
+- **Build:** [Get API Access](https://vooi.io/perps-api).
 - **Run an agent:** Get MCP credentials and connect Claude, GPT, or any MCP-compatible model.
 - **Documentation:** [docs.vooi.io](https://docs.vooi.io) · [API Reference](https://perps-api.vooi.io/docs)
 
